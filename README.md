@@ -25,7 +25,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, backend
 - 📚 Aprendizado contínuo
 
 ---
-
+<!--
 ## 🛠️ Tecnologias
 
 ### Desenvolvimento
@@ -50,7 +50,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, backend
 > A stack acima representa tecnologias que estou estudando, utilizando ou incorporando aos meus projetos. Ela está em constante evolução.
 
 ---
-
+-->
 ## 🚀 Projetos
 
 ### 🔗 Pikolink - Encurtador de Links
